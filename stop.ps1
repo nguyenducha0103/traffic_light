@@ -1,0 +1,1 @@
+docker stop traffic_light
